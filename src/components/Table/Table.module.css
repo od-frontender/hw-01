@@ -1,0 +1,11 @@
+.row__brand {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+.cell__model {
+  background-color: rgb(255, 132, 0);
+}
+.cell__descr {
+  background-color: darkgrey;
+}
